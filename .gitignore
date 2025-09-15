@@ -1,2 +1,12 @@
+﻿data/
+*.csv
+*.CSV
+*.xlsx
+*.png
+*.ipynb_checkpoints/
 __pycache__/
-data/processed/*
+*.pyc
+.venv/
+.env
+.DS_Store
+Thumbs.db
